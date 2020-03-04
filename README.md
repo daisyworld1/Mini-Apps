@@ -1,6 +1,6 @@
 ## Mini-Apps
-#Front end: React.js
-#Back end: node.js
+- Front end: React.js
+- Back end: node.js
 
 1. JSON to CSV Converter
 2. Multistep Checkout
