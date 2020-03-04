@@ -1,0 +1,27 @@
+#board {
+  background: #F4ECB7;
+}
+
+.dot {
+  height: 50px;
+  width: 50px;
+  background-color: #C1C1C1;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dot.red {
+  height: 50px;
+  width: 50px;
+  background-color: #F75A84;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dot.blue {
+  height: 50px;
+  width: 50px;
+  background-color: #5AD8F7;
+  border-radius: 50%;
+  display: inline-block;
+}
